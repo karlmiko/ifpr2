@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move package &apos;com.ifpr.telefone&apos; to &apos;HibernateComDAO/src/com.ifpr&apos;&#x0A;- Original project: &apos;Generico&apos;&#x0A;- Destination element: &apos;HibernateComDAO/src/com.ifpr&apos;&#x0A;- Original element: &apos;Generico/src/com.ifpr.telefone&apos;&#x0A;- Update references to refactored element" description="Move package" destination="=HibernateComDAO/src&lt;com.ifpr" element1="/src&lt;com.ifpr.telefone" flags="589830" fragments="1" id="org.eclipse.jdt.ui.move" policy="org.eclipse.jdt.ui.movePackages" stamp="1408137417692" version="1.0"/>
+</session>

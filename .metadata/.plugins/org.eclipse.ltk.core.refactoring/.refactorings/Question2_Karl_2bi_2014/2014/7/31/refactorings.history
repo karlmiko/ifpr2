@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;Console.java&apos; to &apos;TreinandoProva2BI/src/ifpr.console&apos;&#x0A;- Original project: &apos;Question2_Karl_2bi_2014&apos;&#x0A;- Destination element: &apos;TreinandoProva2BI/src/ifpr.console&apos;&#x0A;- Original element: &apos;ifpr.console.Console.java&apos;" description="Copy compilation unit" destination="=TreinandoProva2BI/src&lt;ifpr.console" element1="/src&lt;ifpr.console{Console.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1406832117314" units="1" version="1.0"/>
+</session>

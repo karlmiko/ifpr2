@@ -1,0 +1,8 @@
+1399940893361	Convert local variable 'reader' to field
+1400096388419	Delete element
+1400096764515	Encapsulate field 'sexo'
+1400116650518	Encapsulate field 'limite'
+1400116670771	Delete element
+1400119645256	Encapsulate field 'SAQUE'
+1400119972325	Delete element
+1400121544033	Encapsulate field 'extrato'

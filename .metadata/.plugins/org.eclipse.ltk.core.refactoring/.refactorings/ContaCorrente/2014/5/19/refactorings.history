@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Encapsulate field &apos;pessoa.endereco.Endereco.cep&apos; in &apos;pessoa.endereco.Endereco&apos;&#x0A;- Original project: &apos;ContaCorrente&apos;&#x0A;- Original element: &apos;pessoa.endereco.Endereco.cep&apos;&#x0A;- Getter method name: &apos;getCep&apos;&#x0A;- Setter method name: &apos;setCep&apos;&#x0A;- Field visibility: &apos;public&apos;&#x0A;- Use getter and setter methods in declaring type" comments="false" declaring="true" description="Encapsulate field &apos;cep&apos;" flags="589830" getter="getCep" id="org.eclipse.jdt.ui.self.encapsulate" input="/src&lt;pessoa.endereco{Endereco.java[Endereco^cep" insertion="11" setter="setCep" stamp="1399687677913" version="1.0" visibility="1"/>
+</session>
